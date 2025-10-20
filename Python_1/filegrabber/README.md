@@ -1,6 +1,4 @@
-Jasne 🙂 — oto **krótsza, przejrzysta wersja README.md**, idealna do repozytorium lub przesłania jako zadanie:
-
----
+# README
 
 ````markdown
 # 🧩 Filegrabber – projekt Python (SGGW)
@@ -38,12 +36,3 @@ Program:
 * Dekoratory i klasy wyjątków
 
 ---
-
-**Autor:** Student SGGW · 2025/2026
-
-```
-
----
-
-To czytelna, zwięzła wersja — idealna do przesłania razem z projektem.
-```
