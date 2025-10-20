@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "filegrabber"
+version = "0.1.0"
+description = "Prosty projekt ETL w Pythonie (SGGW)"
+authors = ["Twoje Imię <twojemail@example.com>"]
+readme = "README.md"
+packages = [{ include = "filegrabber", from = "src" }]
+
+[tool.poetry.dependencies]
+python = "^3.12"
+requests = "^2.32.5"
+
+[tool.poetry.scripts]
+grab = "filegrabber.main:main"
